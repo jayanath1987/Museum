@@ -1,0 +1,13 @@
+{
+  "name": "slm",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "proxies": [
+    {
+    "path": "/museum_app_v4",
+    "proxyUrl": "http://museums.apps.gov.lk/museum_app_v4"
+    }
+    ]
+}
